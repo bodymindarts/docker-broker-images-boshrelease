@@ -57,7 +57,7 @@ GEM
       fog
       highline (~> 1.6)
       readwritesettings (~> 3.0)
-    excon (0.45.4)
+    excon (0.75.0)
     fission (0.5.0)
       CFPropertyList (~> 2.2)
     fog (1.31.0)
